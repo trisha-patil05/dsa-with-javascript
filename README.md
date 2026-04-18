@@ -6,6 +6,6 @@ Daily practice for 2026 Campus Placements.
 - [x] Variables & Operators
 - [x] Math Functions
 - [x] Conditions
-- [ ] Loops
+- [x] Loops
 - [ ] Functions
 - [ ] Arrays
