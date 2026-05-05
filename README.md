@@ -107,8 +107,8 @@ Mathematical problem solving.
 
 ## 🛠️ Tech Used
 
-- Programming Language: (Add your language here, e.g., C / C++ / Java / Python)  
-- Platform: Local development / GitHub  
+- Programming Language: JavaScript  
+- Platform: VS code  
 
 ---
 
