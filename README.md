@@ -55,7 +55,9 @@ Sorting algorithms and related problems.
 **Includes:**
 - Bubble Sort  
 - Selection Sort  
-- Insertion Sort  
+- Insertion Sort
+- Merge sort
+- Quick sort
 - (Future: Advanced sorting)  
 
 ---
